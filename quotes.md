@@ -15,8 +15,12 @@ _Selected from the Divine Comedy (Inferno, Purgatorio, Paradiso)_
 _insights on leadership, power, and human nature From The Prince_
 
 > "It is much safer to be feared than loved, if one of the two must be lacking."
-
+>---"I'd rather be neither feared nor loved
+>   authority built on respect and trust is more stable 
+>   than either fear or affection."
+ 
 > "Everyone sees what you appear to be, few experience what you really are."
+>---"Trust me, No one knows (what you really are..)"
 
 > "Where the willingness is great, the difficulties cannot be great."
 
